@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working on an Open Source project, [Torque](https://www.torquetech.dev), and I'm excited about the future it can bring. Would you like to join our first 200 contributors? Learn more at https://www.torquetech.dev and join us on https://community.torquetech.dev.
+
+🚀
+
 <!--
 **miro-jelaska/miro-jelaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
