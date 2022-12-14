@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on an Open Source project, [Torque](https://www.torquetech.dev), and I'm excited about the future it can bring. Learn more at https://www.torquetech.dev and support us by staring ⭐️ our repo https://github.com/torquetech/torque-workspace
+I'm currently working on [Torque](https://www.torque.cloud), and I'm excited about the future it can bring. Learn more at https://www.torque.cloud and support us by staring ⭐️ our repo https://github.com/torquetech/torque-workspace
 
 🚀
 
