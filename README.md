@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I'm currently working on [Torque](https://www.torque.cloud), and I'm excited about the future it can bring. Learn more at https://www.torque.cloud and support us by staring ⭐️ our repo [github.com/torquetech/torque-workspace](https://github.com/torquetech/torque-packages)
-
-🚀
-
 <!--
 **miro-jelaska/miro-jelaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
