@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋😊
 
 <!--
 **miro-jelaska/miro-jelaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a software engineer with a rich experience collaborating with US-based startups.
+- Most of my production code was in Python 🐍 and JS/TypeScript, but I would love more opportunities with Rust ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) or go.
+- Interested in distributed systems, *nix, Rust.
+- 🧩 I admire the pureness of math. In part, that's why I'm a fan of functional programming and type systems like Rust or Scala have.
+- 📚 I love teaching and have held public lectures and workshops.
+
+Check out my latest project in Rust, where I implement a LOGO programming language interpreter in WASM: [rusty-turtle 🐢](https://github.com/miro-jelaska/rusty-turtle)
